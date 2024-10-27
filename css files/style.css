@@ -1,0 +1,28 @@
+/* style.css */
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/btn-blue.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    margin: 0;
+}
+
+
+h1, h2, h3{
+    font-family: 'Roboto' sans-serif;
+    font-weight:bold;
+    padding: 30px;
+    margin: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
